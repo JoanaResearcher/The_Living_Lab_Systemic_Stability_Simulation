@@ -3,7 +3,7 @@
 
 **Lead Technical Researcher:** Joana Camp, Old Dominion University  
 **Academic Profile:** B.S. Occupational & Technical Studies | GPA: 3.95  
-**Research Core:** 28-Year Longitudinal Ethnographic Study | The Living Lab Series
+**Research Core:** The Living Lab Series
 
 ---
 
